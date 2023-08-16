@@ -1,4 +1,1 @@
-coverage
-composer.lock
-composer.phar
-vendor
+*.sh \n mine.txt
